@@ -291,6 +291,19 @@ body{
     .hero-wrapper {
       width: 100%;
     }
+.container{
+        width: 120%;
+        margin: auto;
+        padding: 40px;
+        background: linear-gradient(45deg, #00569a, transparent), url(bg.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 20px;
+        box-shadow: 1px 1px 4px var(--shadow);
+        position: relative;
+    }
+  
     .hero-wrapper .ramadan-text{
         width: 60%;
     }
